@@ -1,0 +1,9 @@
+struct GencodeUser {
+    Id string
+  	Name string
+  	Password string
+  	Age int32
+  	BirthDay int64
+  	Spouse bool
+  	Money float64
+}

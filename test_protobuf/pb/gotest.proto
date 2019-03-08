@@ -1,0 +1,13 @@
+syntax = "proto3";
+package goserbench;
+
+message GoUser{
+    string id = 1;            //ID
+    string name= 2;           //描述
+    string password = 3;      //密码
+    int32  age=4;             //年龄
+    int64  birthDay=5;        //生日
+    bool   spouse=6;          //配偶
+    double money=7;           //资产
+}
+
