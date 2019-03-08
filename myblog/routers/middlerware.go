@@ -9,7 +9,6 @@ import (
 	"github.com/astaxie/beego/context"
 )
 
-func ValidateMiddlerWare(ctx *context.Context){
-	if
+func ValidateMiddlerWare(ctx *context.Context) {
 
 }
